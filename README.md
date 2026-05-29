@@ -6,9 +6,8 @@
 system-prompt leakage, obfuscation and PII exfiltration *before* untrusted text
 reaches your model.
 
-<!-- Replace OWNER below with your GitHub user/org once you push (e.g. aisona-lab) so the CI badge resolves. -->
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
-[![CI](https://github.com/OWNER/prompt-guard/actions/workflows/ci.yml/badge.svg)](./.github/workflows/ci.yml)
+[![CI](https://github.com/aisona-lab/prompt-guard/actions/workflows/ci.yml/badge.svg)](https://github.com/aisona-lab/prompt-guard/actions/workflows/ci.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](./CONTRIBUTING.md)
 ![TypeScript](https://img.shields.io/badge/TypeScript-strict-blue.svg)
 
